@@ -11,7 +11,7 @@ RAM:          Corsair Vengeance LPX 64 GB
 
 Host GPU:     ASUS DUAL Radeon RX 580
 
-Guest GPU:    ASUS STRIX Geforce 2060
+Guest GPU:    PNY NVIDIA RTX A4000
 
 PCI Storage:  1TB M.2 LUKS+LVM host, 1TB M.2 passthrough guest
 
